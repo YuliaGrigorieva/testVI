@@ -16,3 +16,15 @@
 11. run `open testVI.xcworkspace/`
 12. Run the application
 
+
+## Errors
+
+### Run errors
+<img src="https://snag.gy/Dbrcms.jpg" width="50%" />
+<img src="https://snag.gy/3bMDYo.jpg" width="50%" />
+
+## Build log
+<img src="https://snag.gy/Hmbyzi.jpg" />
+
+## Project
+<img src="https://snag.gy/Nl6wCL.jpg" />
